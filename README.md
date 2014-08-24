@@ -10,4 +10,4 @@ This project uses Delaunay triangulation algorythm stored here. THX SO MUCH!
 
 I wrote an article about this repository.
 
--  
+- [Unity で ドロネー Delaunay 分割 （平面編）](http://izmiz.hateblo.jp/entry/2014/08/24/211629)
